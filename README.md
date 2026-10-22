@@ -15,7 +15,7 @@ and delivering it.
 - **Games**: [Pixel P.I.](https://store.steampowered.com/app/2448910/Pixel_PI/), a detective game
   on Steam where you type your own questions to suspects, and
   [Murder in the Aethertree Forest](https://crischu.itch.io/murder-in-the-aethertree-forest),
-  a visual novel made in a month for a jam.
+  a visual novel I led and wrote with a team, made in a month for a jam.
 
 **See the work**
 
