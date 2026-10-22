@@ -19,6 +19,10 @@ and delivering it.
 
 **See the work**
 
+- [Case studies](https://github.com/crisdesivo/case-studies): optimization, AI assistants, games
+  and data projects, with visuals and results
+- [Pixel P.I. showcase](https://github.com/crisdesivo/pixel-pi): gameplay, how it's built, the
+  tools behind it
 - [cristiandesivo.com](https://cristiandesivo.com/): case studies and a live demo of an assistant
   that can't make things up ([en español](https://cristiandesivo.com/es/))
 - Stuck on a hard problem? [Ask a human expert](https://cristiandesivo.com/ask/)
